@@ -1,0 +1,7 @@
+[
+  {"name": "Nachtcreme (pro Stck.)", "price": 5.50, "discount": 10},
+  {"name": "Handcreme (pro Stck.)", "price": 3.00, "discount": 20},
+  {"name": "Sonnencreme (pro Stck.)", "price": 15.00, "discount": 10},
+  {"name": "Maske (à 5 Stck.)", "price": 20.00, "discount": 20},
+  {"name": "Jade Roller (pro Stck.)", "price": 7.00, "discount": 0}
+]

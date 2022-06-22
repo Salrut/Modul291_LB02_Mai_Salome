@@ -1,0 +1,7 @@
+[
+  {"name": "Bücher (pro Stck.)", "price": 1.50},
+  {"name": "Hefte (100 Seiten)", "price": 2.00},
+  {"name": "Lineal (pro Stck.)", "price": 3.00},
+  {"name": "Stife (à 10 Stck.)", "price": 3.50 },
+  {"name": "Ringe  (4 Stck.)", "price": 7.00}
+]
